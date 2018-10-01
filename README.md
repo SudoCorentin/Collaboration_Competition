@@ -1,4 +1,3 @@
-# p3_collab_compet
 Project 3: Collaboration and Competition
 --------
 

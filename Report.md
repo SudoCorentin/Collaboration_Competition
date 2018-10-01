@@ -22,8 +22,9 @@ Through trials and errors, we finally chosed the following hyperparameters with 
 
 
 ## Plot of Rewards
-
-![title](images/reward_eps.png)
+<img src="https://github.com/CorentinTrebaol/p3_collab_compet/blob/master/reward_eps.png"
+     alt="plot of rewards vs episodes"
+     style="float: left; margin-right: 10px;" />
 
 The plot above shows the reward per episodes. We see that the model didn't peform well. It was unable to solve the problem. 
 

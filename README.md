@@ -27,4 +27,4 @@ Then, place the file in the `p3_collab-compet/` folder in the DRLND GitHub repos
 ## Instructions
 To train the agents is pretty simple;
 - In the root directory, start the jupyter notebook from a terminal with the command `$ jupyter notebook tennis.ipynb` and change the kernal to `drlnd`
-- Run all the cells from the notebook
+- Run all the cells from the notebook.
